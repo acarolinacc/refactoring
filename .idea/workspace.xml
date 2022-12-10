@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e99c27-f5f5-407a-b7b5-e62936b2e696" name="Changes" comment="" />
+    <list default="true" id="29e99c27-f5f5-407a-b7b5-e62936b2e696" name="Changes" comment="">
+      <change afterPath="$USER_HOME$/.idea/acaro.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/Pacman-Game-master/Pacman-Game-master.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/Pacman-Game-master/Pacman-Game-master/maps/maps.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/numbers/.idea/numbers.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/project-l02gr03-master (1)/.idea/project-l02gr03-master (1).iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/project-l02gr03-master/.idea/project-l02gr03-master.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Downloads/wetransfer_pman_2022-12-06_1524/.idea/wetransfer_pman_2022-12-06_1524.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz enunciados/2018 - Event/quiz.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz enunciados/2018 - Event/quiz.ipr" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz enunciados/2019 - Act/quiz.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz enunciados/2019 - Act/quiz.ipr" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz enunciados/2020 - Flavor/quiz.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz enunciados/2020 - Flavor/quiz.ipr" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz enunciados/2021 - Pizza/quiz.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz enunciados/2021 - Pizza/quiz.ipr" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz resoluções/2021 - Pizza/quiz.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/OneDrive/Ambiente de Trabalho/2ºano/1ºSemestre/Laboratório de Desenho e Teste de Software/Testes - Quiz/Java quiz resoluções/2021 - Pizza/quiz.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/refactoring.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example3/SimpleOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pt/up/fe/ldts/example3/SimpleOrder.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,8 +77,18 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="21uKH2MpJGnmB5eKa4WUaVVhvI9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,7 +102,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/acaro/IdeaProjects/refactoring/refactoring"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/acaro/IdeaProjects/refactoring/refactoring",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="RecentsManager">
